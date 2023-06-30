@@ -1,6 +1,7 @@
 {
   "name": "simple-web-starter",
   "private": true,
+  "homepage": "https://jonasree.github.io/DX-Code-Generator",
   "scripts": {
     "web": "yarn dev",
     "dev:vite": "NODE_ENV=development TAMAGUI_TARGET=web vite --host --clearScreen false",
