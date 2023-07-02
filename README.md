@@ -1,7 +1,7 @@
-https://dx.jonas-reetz.de/
+#https://dx.jonas-reetz.de/
 by @jonasree
 
-This is a REACT web app for generating any DX-Code for analog film cameras to read out. This Code can be printed and then glued on the canister for telling the camera the ISO, Frame number and tolerance. This way you can get better image results (for example when shooting Kodak Portra 400 at ISO 200 instead of Boxspeed you get these pastel tones).
+This is a REACT web app made with https://tamagui.dev/ for generating any DX-Code for analog film cameras to read out. This Code can be printed and then glued on the canister for telling the camera the ISO, Frame number and tolerance. This way you can get better image results (for example when shooting Kodak Portra 400 at ISO 200 instead of Boxspeed you get these pastel tones).
 
 USAGE:
 
