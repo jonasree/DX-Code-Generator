@@ -1,0 +1,95 @@
+/*!****************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/@tamagui/core/reset.css ***!
+  \****************************************************************************************/
+/* mimic the native viewport full width/height + flex */
+body, #root, #__next {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+}
+
+li, select, input, button, [role="slider"], [role="listbox"] {
+  outline: none;
+}
+
+.is_Fieldset {
+  all: unset;
+}
+
+p, input, textarea, button, ul, ol, li, pre, dialog {
+  all: unset;
+  box-sizing: border-box;
+}
+
+a.is_Button, .is_Anchor:has(.is_Button) {
+  text-decoration: none;
+}
+
+/*!***********************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/tamagui-loader/dist/cjs/css.js?cssPath=/Users/jonasreetz/Desktop/MFLAPP/MFLAPPtamagui/dxcode-generator/dxgen/src/Root.tsx.4.tamagui.css!./src/Root.tsx ***!
+  \***********************************************************************************************************************************************************************************************************************/
+:root ._ai-center{align-items:center;}
+:root ._fg-1{flex-grow:1;}
+:root ._fs-1{flex-shrink:1;}
+:root ._fb-auto{flex-basis:auto;}
+:root ._fd-column{flex-direction:column;}
+:root ._miw-0{min-width:0;}
+:root ._mih-0{min-height:0;}
+:root ._pos-relative{position:relative;}
+:root ._dsp-flex{display:flex;}
+:root ._mt-60{margin-top:60;}
+:root ._mb-60{margin-bottom:60;}
+:root ._mr-0{margin-right:0;}
+:root ._ml-0{margin-left:0;}
+:root ._col-fff35{color:#fff;}
+:root ._ff-Helvetica{font-family:Helvetica;}
+:root ._tt-none{text-transform:none;}
+:root ._fow-700{font-weight:700;}
+:root ._fos-66{font-size:66;}
+:root ._lh-99{line-height:99;}
+:root ._bbw-1{border-bottom-width:1;}
+:root ._mah-0{max-height:0;}
+:root ._h-0{height:0;}
+:root ._btw-0{border-top-width:0;}
+:root ._brw-0{border-right-width:0;}
+:root ._blw-0{border-left-width:0;}
+:root ._btc-23232335{border-top-color:#232323;}
+:root ._brc-23232335{border-right-color:#232323;}
+:root ._bbc-23232335{border-bottom-color:#232323;}
+:root ._blc-23232335{border-left-color:#232323;}
+:root ._ai-stretch{align-items:stretch;}
+:root ._bs-solid{border-style:solid;}
+:root ._transform-d0t168381406{transform:translateY(-0.5);}
+:root ._h-100{height:100;}
+:root ._fd-row{flex-direction:row;}
+:root ._fs-0{flex-shrink:0;}
+:root ._mr-15{margin-right:15;}
+:root ._ml-15{margin-left:15;}
+:root ._h-auto{height:auto;}
+:root ._mah-auto{max-height:auto;}
+:root ._w-0{width:0;}
+:root ._maw-0{max-width:0;}
+:root ._bbw-0{border-bottom-width:0;}
+:root ._brw-1{border-right-width:1;}
+:root ._als-stretch{align-self:stretch;}
+:root ._transform-d0t607864201{transform:translateX(-0.5) translateY(0);}
+:root ._btc-d0t1821305091{border-top-color:rgba(0,0,0,0.00);}
+:root ._brc-d0t1821305091{border-right-color:rgba(0,0,0,0.00);}
+:root ._bbc-d0t1821305091{border-bottom-color:rgba(0,0,0,0.00);}
+:root ._blc-d0t1821305091{border-left-color:rgba(0,0,0,0.00);}
+
+/*# sourceMappingURL=main.c8e04a81b1e9abeb4b0d.css.map*/
