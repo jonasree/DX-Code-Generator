@@ -19,4 +19,8 @@ How many Frames can be shot on the roll, most of the films have 36 frames
 Tolerance (tolerance=):<br>
 The tolerance of the film when overexposing or underexposing (eg +0,5 to -0,5 is tolerance=1 and +1 to -1 is tolerance=2)
 <br>
+*** I ADDED ANOTHER PARAMETER FOR IMAGE ONLY REQUESTS! ***<br>
+type onlyImg=1 to get dx code as jpeg directly
+
+
 If you have questions or ideas pls text me per mail ego@jonas-reetz.de
